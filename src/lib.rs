@@ -6,13 +6,13 @@
     unused_macros
 )]
 
-mod win1;
-mod win2;
-mod win3;
+mod win1a;
+mod win2a;
+mod win3a;
 
-#[skyline::main(name = "ike_victoryfix_sl2")]
+#[skyline::main(name = "corrin_victoryfix_sl2")]
 pub fn main() {
-    win1::install();
-    win2::install();
-    win3::install();
+    win1a::install();
+    win2a::install();
+    win3a::install();
 }
