@@ -1,4 +1,4 @@
-# Corrin Victory Fix (Smashline 1)
+# Corrin Victory Fix (Smashline 2)
 
 Skyline plugin modifying Corrin's win scripts to have voice lines and sound effects function properly on added slots (c08+)
 
